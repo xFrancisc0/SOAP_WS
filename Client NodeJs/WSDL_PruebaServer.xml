@@ -1,0 +1,55 @@
+<definitions xmlns:tns="Prueba.com.wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsd1="Prueba.com.xsd" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns="http://schemas.xmlsoap.org/wsdl/" name="Servidordeprueba" targetNamespace="Prueba.com.wsdl">
+<!--  definition of datatypes  -->
+<types>
+<schema xmlns="http://www.w3.org/2000/10/XMLSchema" targetNamespace="Prueba.com.xsd">
+<element name="pruebaInput">
+<complexType>
+<all>
+<element name="value" type="string"/>
+</all>
+</complexType>
+</element>
+<element name="pruebaOutput">
+<complexType>
+<all>
+<element name="value" type="string"/>
+</all>
+</complexType>
+</element>
+</schema>
+</types>
+<!--  response messages  -->
+<message name="returns_pruebaOutput">
+<part name="pruebaOutput" type="xsd:string"/>
+</message>
+<!--  request messages  -->
+<message name="prueba">
+<part name="pruebaInput" type="xsd:string"/>
+</message>
+<!--  server's services  -->
+<portType name="Prueba SOAP">
+<operation name="prueba">
+<input message="tns:prueba"/>
+<output message="tns:returns_pruebaOutput"/>
+</operation>
+</portType>
+<!--  server encoding  -->
+<binding name="Prueba SOAP_webservices" type="tns:Prueba SOAP">
+<soap:binding style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+<operation name="prueba">
+<soap:operation soapAction="urn:xmethods-delayed-quotes#prueba"/>
+<input>
+<soap:body use="encoded" namespace="urn:xmethods-delayed-quotes" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+</input>
+<output>
+<soap:body use="encoded" namespace="urn:xmethods-delayed-quotes" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+</output>
+</operation>
+</binding>
+<!--  access to service provider  -->
+<service name="Prueba">
+<port name="Prueba_0" binding="Prueba SOAP_webservices">
+<soap:address location="http://localhost:8000"/>
+</port>
+</service>
+</definitions>

@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\LN872PG\\Desarrollo\\Personales\\Prototipos\\SOAP\\Client NetCore\\Soap NetCore App\\Soap NetCore App\\SoapNetCoreApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\LN872PG\\Desarrollo\\Personales\\Prototipos\\SOAP\\Client NetCore\\Soap NetCore App\\Soap NetCore App\\SoapNetCoreApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LN872PG\\Desarrollo\\Personales\\Prototipos\\SOAP\\Client NetCore\\Soap NetCore App\\Soap NetCore App\\SoapNetCoreApp.csproj",
+        "projectName": "SoapNetCoreApp",
+        "projectPath": "C:\\Users\\LN872PG\\Desarrollo\\Personales\\Prototipos\\SOAP\\Client NetCore\\Soap NetCore App\\Soap NetCore App\\SoapNetCoreApp.csproj",
+        "packagesPath": "C:\\Users\\LN872PG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LN872PG\\Desarrollo\\Personales\\Prototipos\\SOAP\\Client NetCore\\Soap NetCore App\\Soap NetCore App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LN872PG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

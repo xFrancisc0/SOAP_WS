@@ -1,0 +1,1 @@
+Ejecutar con:  php php_soap_client.php

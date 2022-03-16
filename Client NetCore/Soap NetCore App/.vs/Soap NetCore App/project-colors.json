@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2b9c0df0-31de-4e15-a16b-933755a5e5ff": {
+      "ProjectGuid": "2b9c0df0-31de-4e15-a16b-933755a5e5ff",
+      "DisplayName": "SoapNetCoreApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

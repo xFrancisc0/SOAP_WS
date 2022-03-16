@@ -1,0 +1,15 @@
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Soap NetCore App\Soap NetCore App\bin\Debug\net6.0\Soap NetCore App.exe
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Soap NetCore App\Soap NetCore App\bin\Debug\net6.0\Soap NetCore App.deps.json
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Soap NetCore App\Soap NetCore App\bin\Debug\net6.0\Soap NetCore App.runtimeconfig.json
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Soap NetCore App\Soap NetCore App\bin\Debug\net6.0\Soap NetCore App.dll
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Soap NetCore App\Soap NetCore App\bin\Debug\net6.0\ref\Soap NetCore App.dll
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Soap NetCore App\Soap NetCore App\bin\Debug\net6.0\Soap NetCore App.pdb
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Soap NetCore App\Soap NetCore App\obj\Debug\net6.0\Soap NetCore App.csproj.AssemblyReference.cache
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Soap NetCore App\Soap NetCore App\obj\Debug\net6.0\Soap NetCore App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Soap NetCore App\Soap NetCore App\obj\Debug\net6.0\Soap NetCore App.AssemblyInfoInputs.cache
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Soap NetCore App\Soap NetCore App\obj\Debug\net6.0\Soap NetCore App.AssemblyInfo.cs
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Soap NetCore App\Soap NetCore App\obj\Debug\net6.0\Soap NetCore App.csproj.CoreCompileInputs.cache
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Soap NetCore App\Soap NetCore App\obj\Debug\net6.0\Soap NetCore App.dll
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Soap NetCore App\Soap NetCore App\obj\Debug\net6.0\ref\Soap NetCore App.dll
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Soap NetCore App\Soap NetCore App\obj\Debug\net6.0\Soap NetCore App.pdb
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Soap NetCore App\Soap NetCore App\obj\Debug\net6.0\Soap NetCore App.genruntimeconfig.cache

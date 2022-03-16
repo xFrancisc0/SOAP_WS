@@ -1,0 +1,14 @@
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Rest NetCore App Client\Rest NetCore App\Rest NetCore App\obj\Debug\net6.0\Rest NetCore App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Rest NetCore App Client\Rest NetCore App\Rest NetCore App\obj\Debug\net6.0\Rest NetCore App.AssemblyInfoInputs.cache
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Rest NetCore App Client\Rest NetCore App\Rest NetCore App\obj\Debug\net6.0\Rest NetCore App.AssemblyInfo.cs
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Rest NetCore App Client\Rest NetCore App\Rest NetCore App\obj\Debug\net6.0\Rest NetCore App.csproj.CoreCompileInputs.cache
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Rest NetCore App Client\Rest NetCore App\Rest NetCore App\bin\Debug\net6.0\Rest NetCore App.exe
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Rest NetCore App Client\Rest NetCore App\Rest NetCore App\bin\Debug\net6.0\Rest NetCore App.deps.json
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Rest NetCore App Client\Rest NetCore App\Rest NetCore App\bin\Debug\net6.0\Rest NetCore App.runtimeconfig.json
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Rest NetCore App Client\Rest NetCore App\Rest NetCore App\bin\Debug\net6.0\Rest NetCore App.dll
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Rest NetCore App Client\Rest NetCore App\Rest NetCore App\bin\Debug\net6.0\ref\Rest NetCore App.dll
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Rest NetCore App Client\Rest NetCore App\Rest NetCore App\bin\Debug\net6.0\Rest NetCore App.pdb
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Rest NetCore App Client\Rest NetCore App\Rest NetCore App\obj\Debug\net6.0\Rest NetCore App.dll
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Rest NetCore App Client\Rest NetCore App\Rest NetCore App\obj\Debug\net6.0\ref\Rest NetCore App.dll
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Rest NetCore App Client\Rest NetCore App\Rest NetCore App\obj\Debug\net6.0\Rest NetCore App.pdb
+C:\Users\LN872PG\Desarrollo\Personales\Prototipos\SOAP\Client NetCore\Rest NetCore App Client\Rest NetCore App\Rest NetCore App\obj\Debug\net6.0\Rest NetCore App.genruntimeconfig.cache
